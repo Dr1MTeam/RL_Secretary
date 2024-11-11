@@ -27,3 +27,5 @@
 | PPO | 38.50% |
 | --- | --- | 
 | Правило 37 | 37.123% |
+
+![График](https://github.com/kittyspet/kartinka/raw/main/ASROT.jpg)
