@@ -22,10 +22,17 @@
 
 ## Решение
 - RL алгоритм PPO из stable_baselines3
+- RL алгоритм DQN из stable_baselines3
 - Правило 37
 
-| PPO | 38.50% |
-| --- | --- | 
-| Правило 37 | 37.123% |
+| Метод | % | кол-во шагов | время обучения |
+| --- | --- | --- | --- |  
+| PPO | 36.30% | 500000 | 5м 37с |
+| DQN | 30.80% | 500000 | 3м 34с |
+| Правило 37 | 37.05% | --- | --- |
 
-![График](https://github.com/kittyspet/kartinka/raw/main/ASROT.jpg)
+
+| Кривая обучения DQN | Кривая обучения PPO |
+| --- | --- | 
+| ![График](https://github.com/Dr1MTeam/RL_Secretary/blob/main/resources/d00c8d2d-6c32-4288-84fd-cd3fd3ccf2b2.png) | ![График](https://github.com/Dr1MTeam/RL_Secretary/blob/main/resources/dcdb6819-8003-42cc-a6b0-a1acd942440d.png) | 
+
