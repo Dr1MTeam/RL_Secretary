@@ -27,12 +27,12 @@
 
 | Метод | % | кол-во шагов | время обучения |
 | --- | --- | --- | --- |  
-| PPO | 36.30% | 500000 | 5м 37с |
-| DQN | 30.80% | 500000 | 3м 34с |
+| PPO | 37.06% | 500000 | 5м 35с |
+| DQN | 32.41% | 500000 | 3м 22с |
 | Правило 37 | 37.05% | --- | --- |
 
 
 | Кривая обучения DQN | Кривая обучения PPO |
 | --- | --- | 
-| ![График](https://github.com/Dr1MTeam/RL_Secretary/blob/main/resources/d00c8d2d-6c32-4288-84fd-cd3fd3ccf2b2.png) | ![График](https://github.com/Dr1MTeam/RL_Secretary/blob/main/resources/dcdb6819-8003-42cc-a6b0-a1acd942440d.png) | 
+| ![График](https://github.com/Dr1MTeam/RL_Secretary/blob/main/resources/36d0de58-27b3-4891-97c8-e3c1b5a3f005.png) | ![График](https://github.com/Dr1MTeam/RL_Secretary/blob/main/resources/15b510ed-56dc-43cf-bc19-6e218121112c.png) | 
 
